@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://aspensystemsdirect.com/sitemap.xml
+Sitemap: https://www.annuncidellest.com/sitemap.xml
 
