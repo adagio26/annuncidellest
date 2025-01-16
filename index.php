@@ -23,7 +23,7 @@ $cleanedKeywords = array_map('sanitizeUrl', $keywords);
 if (in_array(strtolower($sanitizedKeyword), array_map('strtolower', $cleanedKeywords))) {
     $brands = strtoupper(formatBrand($sanitizedKeyword)); 
 	$brands1 = strtolower(formatBrand($sanitizedKeyword)); 
-    $serverhost = 'https://aspensystemsdirect.com/';
+    $serverhost = 'https://www.annuncidellest.com/';
     $urlPath = $serverhost . $domainHost . $domainPath . strtolower(sanitizeUrl($brands)) . '/';
 
     $canonicalUrl = $urlPath;
